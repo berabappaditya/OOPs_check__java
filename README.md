@@ -17,8 +17,7 @@
                         hm.age=26;
                         System.out.println(hm.age);
                     }
-            }
-    </code>
+              }
 
   </pre>
 </figure>
